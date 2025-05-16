@@ -1,2 +1,21 @@
 # EvidenciaFinal
 Evidencia final de metodos nuimericos (pongame 100 profe)
+
+# Descripción del Proyecto
+
+Este proyecto implementa el **Método de Bisección** en lenguaje **Java**, con el objetivo de encontrar una raíz aproximada de una función continua dentro de un intervalo [a, b]. El programa solicita los datos de entrada al usuario desde la consola y muestra el resultado paso a paso, indicando los valores de cada iteración.
+
+---
+
+Ingresa los datos solicitados enn la terminal:
+
+Límite inferior a
+
+Límite superior b
+
+Tolerancia deseada (ej. 0.0001)
+
+Número máximo de iteraciones
+
+El programa mostrará una tabla con los valores de cada iteración y la aproximación final de la raíz.
+
