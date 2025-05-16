@@ -1,0 +1,12 @@
+Método Numérico Implementado
+Se utiliza el Método de Bisección, el cual consiste en:
+
+Verificar que f(a) y f(b) tengan signos opuestos.
+
+Calcular el punto medio c = (a + b)/2.
+
+Evaluar f(c) y reemplazar uno de los extremos según el signo.
+
+Repetir el proceso hasta cumplir la tolerancia deseada o alcanzar el número máximo de iteraciones.
+
+Este método es útil para encontrar raíces de funciones continuas en intervalos cerrados donde se cumple el teorema de Bolzano.
